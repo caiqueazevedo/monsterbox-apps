@@ -1,0 +1,14 @@
+.options {
+  flex-wrap: unset;
+}
+
+.bg-custom {
+  background-color: #121212 !important;
+}
+
+.my-badge {
+  color: #dee2e6 !important;
+  background-color: #2b3035 !important;
+  border: 1px solid #495057 !important;
+  border-radius: 1rem !important;
+}
